@@ -1,5 +1,8 @@
 libs:
-PyQt5.QtWidgets
+  PyQt5.QtWidgets
+
+Version:
+  Python3.9
 
 Methods of the "Calculator" class:
   _create - create UI - window
