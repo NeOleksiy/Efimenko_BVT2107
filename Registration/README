@@ -1,0 +1,7 @@
+libs:
+  flask
+  requests
+  psycopg2
+
+Version:
+  Python3.9
