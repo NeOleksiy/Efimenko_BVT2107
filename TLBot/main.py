@@ -22,7 +22,7 @@ conn = psycopg2.connect(database="Timetable",
                         port="5432")
 cursor = conn.cursor()
 
-token = "2142853168:AAGnNDgD05XaJDxBQZtj7I4k_Dg0mhZNehw"
+token = ""
 bot = telebot.TeleBot(token)
 
 
